@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m developing data processing workflows for [WALLABY](https://www.atnf.csiro.au/research/WALLABY/) and [POSSUM](https://askap.org/possum/) (both [ASKAP](https://www.atnf.csiro.au/projects/askap/index.html) surveys) to design an astronomy post-processing compute platform for the [Australian SKA Regional Centre](https://aussrc.org/) 🔭
+I’m developing data processing workflows for [WALLABY](https://www.atnf.csiro.au/research/WALLABY/) and [POSSUM](https://askap.org/possum/) (both [ASKAP](https://www.atnf.csiro.au/projects/askap/index.html) surveys), and designing an astronomy post-processing compute platform for the [Australian SKA Regional Centre](https://aussrc.org/) 🔭
 
 <!--
 **axshen/axshen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
